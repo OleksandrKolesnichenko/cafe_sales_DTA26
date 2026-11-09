@@ -1,3 +1,4 @@
+```text
 cafe_sales/
 ├── README.md
 ├── data/
